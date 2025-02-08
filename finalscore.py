@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load dataset (replace with actual file)
-df = pd.read_excel(r"C:\Users\nbhat\Downloads\city_scores_all_years (1).xlsx")
+df = pd.read_excel(r"city_scores_all_years (1).xlsx")
 
 
 # Ensure 'NAME_CITY' is used as the city column
